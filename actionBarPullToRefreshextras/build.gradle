@@ -1,0 +1,17 @@
+apply plugin: 'android-library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 19
+    }
+}
+
+dependencies {
+    compile project(':actionBarPullToRefresh')
+    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile 'com.android.support:support-v4:26.0.0-alpha1'
+}

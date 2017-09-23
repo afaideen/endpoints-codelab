@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\b7e903e2958f925e743d961c179144c0bcbec56f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_0fd4857a9b0d98475cfac3612dd1f13eb5b4046b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-http-client-android-1.22.0_b3a2a1c31b00a2eade7528b1f18df87b6d11500c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\actionBarPullToRefreshextras\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1d63b78f4e6f11c0d5a290e4b99e6928ad8dfdb">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_7a520d25b12f84582464af194b983d6b2c502f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\5107228c2cd9f6d9def2af0325a00f96b29595a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_49061be4dc139de9d7a7c2e9277fd20c25450066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_ae0f5ac4e157bf012cb2530f92f9c19c06daecab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\actionBarPullToRefresh\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="087be8e386221322d92c0e13c76e709ddf7b15a3">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_084a5170c28d3d31ad8cbf89eff9178e1696e6a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\libs\libphonenumber-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6ce838a73af4b45b225a22135b7580e2b0313af">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\libphonenumber-4.1_58f9a6eb0e1e3de1752fc97220bb03c5b7328bbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-api-client-1.22.0_60944728ae4abc9c85e7549ca61ac25e8e8337c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\libs\signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="576194c2d9ecf9382ed5ab913de8b36640507847">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1_ac8644655ba5c388ae5e1c284484bbd7a4b7d4b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6c8e520b4b8bc88684c41fa789e63cce32bc80c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\libs\dropbox-android-sdk-1.5.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2e7a56b4f6e226c233195ba0c9417a9b28183ce5">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.5.4_b10cb81eb954b797abb94bc9880e3fd215688d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\libs\signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d1b39a438178bc885d724458de64cee33f1932a6">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.1_d5cb0e4954b711565abb31e2468e3f98acf33bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\87e2354942ef32b1aee6bcf4619b5f6e135b5aa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_4603c9dca6c9c97801fd7070c168101b34bb8258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\a4610be209de7df982818a816d935af2cbbe23bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_56b2b40d4e7c15e28e169487b1815355fc6b12b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\chuckbjonesSwipeToDismissUndoListec6bf93\build\intermediates\bundles\default\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5c729c4dbce023d96b12f3de27686a4c4614923">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_9c7abf477d580e59a7fd5687797400737535f979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtBackend\build\libs\todoTxtBackend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1fcccaabbca1f4b98f5295658475e3dc2facfcf">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\todoTxtBackend-android-endpoints_1a3503fe731d74c08a2442b1074531e752bf980c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="12e7270b1819bae792c9a9e5e8076ebbcdaaac4b">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\apache-mime4j-0.6_b59cd0f21e510303f989186462eab7b7c0aa09a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\05268c89c55a84c8d3418f2293cef7d2c0de22a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_baa4f563448ed12b90a217303b56dd7d89499b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-api-client-android-1.22.0_e1cd6e4345f75b6bb695ee060fafd4f19b97b463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\guava-jdk5-17.0_7a6923d81d68bde9558e18849b6de68eca86c6bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\jsr305-2.0.1_fa5836722f696cd2ee0891fea36d99aa73b29db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-http-client-1.22.0_ced32d508e439949db2822a4d47374d47e2f5011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\9e3652f0f3a08e7f0ffe599d3b4db78f8b35d6f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_dd3d8bf2de5f2e511548fb2dbd4a6224782e809d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\423d02669ceb30ee7e3eea4d1bcfe149391de3c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_7ef85cb1f07e9e14978b91ddfcf4538d2f92a7a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\json_simple-1.1_157b91c9bcc2a4e4b182cbaaab39b9308afcf526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\libs\httpmime-4.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\httpmime-4.0.3_65c18ce816c5949fe6d1c1e672aaf3603f9b4093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.22.0_8c65a6506f8367bab65ab8bd18c12560d00ac4f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-oauth-client-1.22.0_0b878c85b14067803011b9a4e0b06ba95b3ab239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gcp\codelab\endpoints-codelab-android-master\chuckbjonesSwipeToDismissUndoListec6bf93\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cddf31e236d058972c55b78f07d461a01cd942f1">
+        <dex dex="D:\gcp\codelab\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes_ac66391b077caf8e60cc1b743b757723ab65a710.jar" />
+    </item>
+
+</items>
